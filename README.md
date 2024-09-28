@@ -39,6 +39,9 @@
 | **vmware**               |                                                              | 创建虚拟机     |
 | **typora**               |                                                              | Markdown编辑   |
 
+<br/>
+
+
 编程语言：
 
 | 编程语言 | 链接                                       | 备注 |
@@ -46,6 +49,8 @@
 | Shell    |                                            |      |
 | Python   | https://github.com/pzxy-cs/Python-100-Days |      |
 |          |                                            |      |
+
+<br/>
 
 文件格式：
 
@@ -56,6 +61,8 @@
 | Yaml（云计算必修） | https://www.ruanyifeng.com/blog/2016/07/yaml.html    | 配置                 |
 | Xml                | https://www.w3school.com.cn/xml/index.asp            | 配置                 |
 | ini                | https://www.cnblogs.com/Sweettesting/p/15965528.html | 配置                 |
+
+<br/>
 
 其他内容：
 

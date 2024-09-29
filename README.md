@@ -22,6 +22,7 @@
 主要是参考了：
 
 -   [《MIT 计算机教育缺失的一课》](https://space.bilibili.com/518734451/channel/seriesdetail?sid=3320015)
+-   [计算机教育中缺失的一课 The Missing Semester of Your CS Education 中文版](https://missing-semester-cn.github.io/)
 
 并在竞赛培训的背景之上对内容进行了补充；
 

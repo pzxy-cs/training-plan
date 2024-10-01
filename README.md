@@ -37,7 +37,7 @@
 | **对话式AI工具（必修）** | [豆包](https://www.doubao.com/chat/)、[文心一言](https://yiyan.baidu.com/)、[ChatGPT](https://chat.tinycms.xyz:3002/) |                |
 | **Git、Github（必修）**  | https://github.com/pzxy-cs/git-train                         | 拉取、提交代码 |
 | **vscode**               | https://code.visualstudio.com/                               | 代码编辑       |
-| **vmware**               |                                                              | 创建虚拟机     |
+| **vmware**               | https://www.bilibili.com/video/BV1M94y1U7nc/                 | 创建虚拟机     |
 | **typora**               |                                                              | Markdown编辑   |
 
 <br/>
